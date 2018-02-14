@@ -1,5 +1,6 @@
 {
   "name": "nivo-lightbox",
+  "version": "1.3.2",
   "description": "A simple, flexible, responsive, retina-ready jQuery lightbox plugin",
   "keywords": [
     "image",
